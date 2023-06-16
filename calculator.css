@@ -1,0 +1,42 @@
+body{
+    background-size: cover;
+    margin-right:300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left:300px ;
+    padding:200px;
+    height:300px;
+ width:200px;
+    border:1px solid brown;
+    margin:auto;
+ margin-top:5%;
+ background-color: black;
+    color:white;
+    border-radius: 30%;
+    text-align:left;
+    padding-bottom:5px ;
+    padding-top:2px ;
+
+}
+.btn{
+    height:10%;
+    width:30px;
+    background-color: green;
+    margin-left:80px ;
+
+
+}
+#result{
+    height:10%;
+    width:50px;
+    background-color: green;
+    margin-left:80px ;
+
+}
+#overall{
+    height:2%;
+    background-color: green;
+    margin-left:80px ;
+    width:fit-content;
+}
+
